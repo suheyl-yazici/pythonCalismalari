@@ -1,1 +1,1 @@
-# Bu klasöre python ödevlerini atıyorum.
+# Bu klasöre python ödevlerimi atıyorum.
