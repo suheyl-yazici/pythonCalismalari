@@ -1,1 +1,1 @@
-# python_odev
+# Bu klasöre python ödevlerini atıyorum.
